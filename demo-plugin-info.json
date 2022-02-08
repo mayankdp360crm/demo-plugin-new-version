@@ -1,7 +1,7 @@
 {
 	"id": "https://github.com/mayankdp360crm/demo-plugin-new-version/blob/main/demo-plugin.zip",
 	"slug": "demo-menu",
-	"url": "example.com",
+	"url": "https://github.com/mayankdp360crm/demo-plugin-new-version/blob/main/",
 	"tested": "5.8",
 	"requires_php" : "7.3",
 	"autoupdate" : false,
